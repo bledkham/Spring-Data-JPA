@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mongo/spring-boot-mongo.iml" filepath="$PROJECT_DIR$/spring-boot-mongo/spring-boot-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdata-examples.iml" filepath="$PROJECT_DIR$/springdata-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdata-jpa/springdata-jpa-examples.iml" filepath="$PROJECT_DIR$/springdata-jpa/springdata-jpa-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdata-mongodb/springdata-mongodb-examples.iml" filepath="$PROJECT_DIR$/springdata-mongodb/springdata-mongodb-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdata-neo4j/springdata-neo4j-examples.iml" filepath="$PROJECT_DIR$/springdata-neo4j/springdata-neo4j-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdata-redis/springdata-redis-examples.iml" filepath="$PROJECT_DIR$/springdata-redis/springdata-redis-examples.iml" />
+    </modules>
+  </component>
+</project>
